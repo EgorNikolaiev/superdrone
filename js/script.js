@@ -9712,7 +9712,6 @@ if (typeof document !== 'undefined') {
 
 var swiper1 = new Swiper('.video-slider', {
 	// direction: 'vertical',
-	loop: true,
 	navigation: {
 		nextEl: '.swiper-button-next',
 		prevEl: '.swiper-button-prev',
