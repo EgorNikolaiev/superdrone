@@ -1,1 +1,1 @@
-https://mrgo336.github.io/superdrone/
+https://EgorNikolaiev.github.io/superdrone/
